@@ -1,9 +1,3 @@
-# Author: ablajan
-# Mail: 2770532197@qq.com
-# Time: 2024.3.20
-
-This is a simple Python script for encoding and decoding text using a "Cyfer Joke" encryption scheme.
-
 ## Author
 - **Author:** ablajan
 - **Mail:** 2770532197@qq.com
